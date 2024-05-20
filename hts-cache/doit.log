@@ -1,0 +1,8 @@
+-qwr1%e1C2%Ps2u1%s%u%I0p3DaK0c3H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" https://my.citilab.ru/VlprtH8uK0NaR5a2CwmC_view/Default.aspx?checkey=02740175070870081C14FB8BF1EDF9FDF5 -O1 "C:\Мои Web Сайты\citylab" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Fri, 17 May 2024 10:49:02, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:49:03	80833/80833	---MCZ	200	added ('OK')	text/html	date:Fri,%2017%20May%202024%2007:49:03%20GMT	https://my.citilab.ru/VlprtH8uK0NaR5a2CwmC_view/Default.aspx?checkey=02740175070870081C14FB8BF1EDF9FDF5	C:/%d0%9c%d0%be%d0%b8%20Web%20%d0%a1%d0%b0%d0%b9%d1%82%d1%8b/citylab/my.citilab.ru/VlprtH8uK0NaR5a2CwmC_view/Default4766.html	(from )
+10:49:03	107/107	---MCZ	404	error ('Not%20Found')	text/html	date:Fri,%2017%20May%202024%2007:49:03%20GMT	https://my.citilab.ru/robots.txt		(from )
